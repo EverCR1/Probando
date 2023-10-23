@@ -1,0 +1,10 @@
+C:\Users\Ever Corazón\source\repos\Probando\Probando\bin\Debug\Probando.exe.config
+C:\Users\Ever Corazón\source\repos\Probando\Probando\bin\Debug\Probando.exe
+C:\Users\Ever Corazón\source\repos\Probando\Probando\bin\Debug\Probando.pdb
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.csproj.AssemblyReference.cache
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.Form1.resources
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.Properties.Resources.resources
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.csproj.GenerateResource.cache
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.csproj.CoreCompileInputs.cache
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.exe
+C:\Users\Ever Corazón\source\repos\Probando\Probando\obj\Debug\Probando.pdb
