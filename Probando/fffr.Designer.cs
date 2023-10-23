@@ -30,8 +30,13 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+<<<<<<< HEAD
             this.button2 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+=======
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+>>>>>>> 1a8ea07e559330965b4cfb1caeab465ee8669a21
             this.SuspendLayout();
             // 
             // button1
@@ -50,8 +55,9 @@
             this.textBox1.Size = new System.Drawing.Size(195, 22);
             this.textBox1.TabIndex = 1;
             // 
-            // button2
+            // textBox2
             // 
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(286, 275);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(271, 23);
@@ -68,14 +74,32 @@
             this.label1.Size = new System.Drawing.Size(44, 16);
             this.label1.TabIndex = 3;
             this.label1.Text = "label1";
+=======
+            this.textBox2.Location = new System.Drawing.Point(272, 116);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(241, 22);
+            this.textBox2.TabIndex = 2;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(535, 116);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(241, 22);
+            this.textBox3.TabIndex = 3;
+>>>>>>> 1a8ea07e559330965b4cfb1caeab465ee8669a21
             // 
             // fffr
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
+=======
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textBox2);
+>>>>>>> 1a8ea07e559330965b4cfb1caeab465ee8669a21
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Name = "fffr";
@@ -89,7 +113,19 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
+<<<<<<< HEAD
+<<<<<<< HEAD
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox3;
+=======
         private System.Windows.Forms.Button button2;
+<<<<<<< HEAD
         private System.Windows.Forms.Label label1;
+=======
+>>>>>>> d6c4ddc5bd33680c19d0b3917cc4a2febf4c1509
+=======
+        private System.Windows.Forms.Button button2;
+>>>>>>> d6c4ddc5bd33680c19d0b3917cc4a2febf4c1509
+>>>>>>> 1a8ea07e559330965b4cfb1caeab465ee8669a21
     }
 }
